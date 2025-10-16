@@ -1,5 +1,5 @@
-fastapi[standard]
-uvicorn
-aiohttp
-openai
-cyksuid
+aiohttp==3.9.5
+cyksuid==2.1.0
+fastapi[standard]==0.115.0
+openai==1.52.0
+uvicorn==0.30.6
